@@ -12,7 +12,6 @@ My Impressive skill set, commitment to hard work, and passion for the world make
 
 ### Education
 Loyola University Maryland, Manasquan High School, specialized History-Political Science
-***
 ### Projects
 
 #### Timesheet
