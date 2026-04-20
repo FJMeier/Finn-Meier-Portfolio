@@ -29,6 +29,8 @@ Summary:Schedules are important in the world of business,
 #### Profit Tracker
  ![Profit Tracker](images/Picture2.png)
 
+[Project Link](https://studentsloyola-my.sharepoint.com/:x:/g/personal/fjmeier_loyola_edu/IQD53SaY78KYRrV50WY7BNgVASdA6YGz5G5IPMVS7qR98g0?e=mhdFAx&wdLOR=c60D2B64C-51BF-494F-9485-851A8BB5D1D8)
+
 Summary:Revenue and Profit are the cornerstones of a successful enterprise, 
 and knowing exactly how much money you are raking in is vital for economic success. 
 That is why I whipped up this profit tracker in Excel.  Utilizing mathematic formulas, 
@@ -39,6 +41,8 @@ Result:A useful template for an Excel-based profit tracker.
 #### Consumer Electronic Spreadsheet
  ![Consumer Electronic Spreadsheet](images/Picture3.png)
  
+[Project Link](https://studentsloyola-my.sharepoint.com/:x:/g/personal/fjmeier_loyola_edu/IQByMZyue1_WRptGOK9XLGRwAWBLGpfOLA9BHNWqHfw6K1Y?e=AhyxyD&wdLOR=cC6A3BC4C-A2D7-444D-BB54-FC3E3CB48804)
+
 Summary:Collecting valuable information on various types of consumer electronics, and
 the internet, online stores, Excel were some of the resources I used. Some of the challenges I faced were
 comparing equipment and calculating which model of a given type of electronic is most valuable for me.
