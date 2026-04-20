@@ -10,13 +10,15 @@ With skills in travelling, exploring , meeting new people, and seeing new places
 My Impressive skill set, commitment to hard work, and passion for the world make me a valuable asset.  In my spare time, I like to play video games and party
 
 
-### Education
+### Education 
 Loyola University Maryland, Manasquan High School, specialized History-Political Science
 ### Projects
 
 #### Timesheet
  ![Timesheet Photo](images/Picture1.png)
  
+[Project Link](Finnegan Meier_Excel Assessment_CS105.03_2PM.xlsx)
+
 Summary:Schedules are important in the world of business,
  so I set out to properly configure a timesheet for a business and its employees.
  A tool I used was Excel,
