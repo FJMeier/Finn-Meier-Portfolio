@@ -17,7 +17,7 @@ Loyola University Maryland, Manasquan High School, specialized History-Political
 #### Timesheet
  ![Timesheet Photo](images/Picture1.png)
  
-[Project Link](Finnegan Meier_Excel Assessment_CS105.03_2PM.xlsx)
+[Project Link](https://studentsloyola-my.sharepoint.com/:x:/g/personal/fjmeier_loyola_edu/IQDTPo3nu2mDT5_adLrPCsXpASp0lFxVLvvTeBQGmO_kujo?e=kGk0rg&wdLOR=c1DAC5A3F-4073-4AFA-BF63-3D8E9643C9B1)
 
 Summary:Schedules are important in the world of business,
  so I set out to properly configure a timesheet for a business and its employees.
